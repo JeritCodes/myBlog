@@ -1,0 +1,9 @@
+---
+title: "First Blog"
+author: "Cain"
+date: "2024-08-03"
+categories: [gaming]
+---
+I am happy to introduce to my first blog
+
+![](thumbnail.jpg)
