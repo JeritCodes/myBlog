@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "myBlog",
+    "section": "",
+    "text": "Quarto something to lookout for\n\n\n\n\n\n\nTools\n\n\n\n\n\n\n\n\n\nAug 3, 2024\n\n\nJerit\n\n\n\n\n\n\n\n\n\n\n\n\nMullaperiyar Dam\n\n\n\n\n\n\npublic\n\n\n\n\n\n\n\n\n\nAug 3, 2024\n\n\nJerit\n\n\n\n\n\n\n\n\n\n\n\n\nRust: something that can’t be avoided\n\n\n\n\n\n\nTools\n\n\n\n\n\n\n\n\n\nAug 3, 2024\n\n\nJerit\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "My Expectation",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "posts/myExpectations/My Expectations.html",
+    "href": "posts/myExpectations/My Expectations.html",
+    "title": "Quarto: Somthing to lookout for",
+    "section": "",
+    "text": "എന്റെ അഭിപ്രായത്തിൽ, നിങ്ങൾ നിങ്ങളേക്കാൾ മറ്റുള്ളവരിൽ നിന്ന് ഉയർന്ന പ്രതീക്ഷകൾ പുലർത്തുന്നത് വളരെ മോശം ആശയമാണ്. എന്നിരുന്നാലും, അനേകർക്കും ഈ രീതിയിൽ പ്രതീക്ഷകളുണ്ട്. ഇത് നിരാശയ്ക്കും അസന്തുഷ്ടിക്കുമുള്ള ഒരു പാചകക്കുറിപ്പാണെന്ന് ഞാൻ വിശ്വസിക്കുന്നു. വാസ്തവത്തിൽ, ആളുകൾക്ക് മറ്റുള്ളവരിൽ നിന്ന് ഉയർന്ന പ്രതീക്ഷകൾ ഉണ്ടാകുന്നത് വളരെ സാധാരണമാണ്; അവര് സ്വയം ആഗ്രഹിച്ചതിനേക്കാള് എത്രയോ ഉയര് ന്നതായിരുന്നു. വാസ്തവത്തിൽ, ചിലപ്പോൾ ആരെങ്കിലും മറ്റൊരാളെ അവർ ചെയ്യുന്ന അതേ പെരുമാറ്റം ചെയ്യുന്നതിന് വിമർശിക്കുന്നത് നിങ്ങൾ കാണും. ഉദാഹരണത്തിന്, കാർപൂൾ ലൈനിലെ ഒരു സ്ത്രീ മറ്റൊരു അമ്മയ്ക്ക് ശരീരഭാരം വർദ്ധിച്ചതായി ശ്രദ്ധിക്കുന്നു. എന്നിരുന്നാലും, ഈ പ്രത്യേക അമ്മ സ്വയം ഭാരം വർദ്ധിപ്പിച്ചു. മറ്റേ അമ്മയിൽ അവൾക്ക് ഇത് ശ്രദ്ധിക്കാൻ കഴിയുമെന്ന് തോന്നുന്നു, മറ്റേ അമ്മയ്ക്ക് ശരീരഭാരം വർദ്ധിച്ചിട്ടില്ലെന്ന് പ്രതീക്ഷിക്കുന്നു, പക്ഷേ സ്വയം ഈ പ്രതീക്ഷയില്ല. ജീവിതത്തിൽ കൂടുതൽ മുന്നോട്ട് പോകുന്നതിൽ നിന്നും പരിണമിക്കുന്നതിൽ നിന്നും പക്വത കൈവരിക്കുന്നതിൽ നിന്നും ആളുകളെ തടയുന്ന ഒരു പ്രശ്നമാണിതെന്ന് എനിക്ക് തോന്നുന്നു. നിങ്ങളിൽ നിന്ന് കൂടുതൽ എങ്ങനെ പ്രതീക്ഷിക്കാമെന്നും മറ്റുള്ളവരിൽ നിന്ന് കുറവ് എങ്ങനെ പ്രതീക്ഷിക്കാമെന്നും എനിക്ക് കുറച്ച് നുറുങ്ങുകൾ ഉണ്ട്."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/Quarto/index.html",
+    "href": "posts/Quarto/index.html",
+    "title": "Quarto something to lookout for",
+    "section": "",
+    "text": "Quarto is an open-source software that’s been making waves in the data science community. It enables users to create dynamic, interactive documents and reports, working seamlessly with popular programming languages like Python, R, and Julia. With Quarto, data scientists and analysts can create interactive visualizations, update reports and dashboards with fresh data, and collaborate with others in real-time. Whether you’re looking to streamline your workflow, enhance productivity, or improve collaboration, Quarto has got you covered.\nI’m excited to explore Quarto further and discover its full potential. With its interactive features, dynamic reporting capabilities, and collaboration tools, Quarto is poised to revolutionize the way we approach data science and reporting. Whether you’re a data scientist, business intelligence professional, or educator, Quarto is definitely worth checking out. Share your thoughts and experiences with Quarto in the comments below! Subscribe to our blog for more exciting content on the latest data science trends and tools."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Mullaperiyar Dam",
+    "section": "",
+    "text": "The Mullaperiyar dam has been the bone of contention between Tamil Nadu and Kerala for a long time. Read here to know about the history of the 126 years old dam.\nThe Supreme Court’s direction recently to the supervisory committee for the Mullaperiyar dam on the issue of the maximum water level has revived the controversy surrounding the dam.\nThe order was issued while hearing a petition raising apprehensions about the supervision of water levels of the reservoir, especially during the rainy season and as Kerala has also been experiencing unusually heavy spells of rain.\nDuring October 18-25 2021, the dam too received a substantial inflow. Despite the Court’s nod in 2014 to store water up to 142 ft, Tamil Nadu has been careful in drawing as much water as possible so that the level does not reach the permissible level ordinarily."
+  },
+  {
+    "objectID": "posts/Quarto/Quarto.html",
+    "href": "posts/Quarto/Quarto.html",
+    "title": "Quarto something to lookout for",
+    "section": "",
+    "text": "Quarto is an open-source software that’s been making waves in the data science community. It enables users to create dynamic, interactive documents and reports, working seamlessly with popular programming languages like Python, R, and Julia. With Quarto, data scientists and analysts can create interactive visualizations, update reports and dashboards with fresh data, and collaborate with others in real-time. Whether you’re looking to streamline your workflow, enhance productivity, or improve collaboration, Quarto has got you covered.\nI’m excited to explore Quarto further and discover its full potential. With its interactive features, dynamic reporting capabilities, and collaboration tools, Quarto is poised to revolutionize the way we approach data science and reporting. Whether you’re a data scientist, business intelligence professional, or educator, Quarto is definitely worth checking out. Share your thoughts and experiences with Quarto in the comments below! Subscribe to our blog for more exciting content on the latest data science trends and tools."
+  },
+  {
+    "objectID": "posts/Emergence of Rust/Rust.html",
+    "href": "posts/Emergence of Rust/Rust.html",
+    "title": "Rust: something that can’t be avoided",
+    "section": "",
+    "text": "In 2006, Graydon Hoare was a 29-year-old computer programmer working for Mozilla, the open-source browser company. Returning home to his apartment in Vancouver, he found that the elevator was out of order; its software had crashed. This wasn’t the first time it had happened, either.\nHoare lived on the 21st floor, and as he climbed the stairs, he got annoyed. “It’s ridiculous,” he thought, “that we computer people couldn’t even make an elevator that works without crashing!” Many such crashes, Hoare knew, are due to problems with how a program uses memory. The software inside devices like elevators is often written in languages like C++ or C, which are famous for allowing programmers to write code that runs very quickly and is quite compact. The problem is those languages also make it easy to accidentally introduce memory bugs—errors that will cause a crash. Microsoft estimates that 70% of the vulnerabilities in its code are due to memory errors from code written in these languages.\nMost of us, if we found ourselves trudging up 21 flights of stairs, would just get pissed off and leave it there. But Hoare decided to do something about it. He opened his laptop and began designing a new computer language, one that he hoped would make it possible to write small, fast code without memory bugs. He named it Rust, after a group of remarkably hardy fungi that are, he says, “over-engineered for survival.”\nSeventeen years later, Rust has become one of the hottest new languages on the planet—maybe the hottest. There are 2.8 million coders writing in Rust, and companies from Microsoft to Amazon regard it as key to their future. The chat platform Discord used Rust to speed up its system, Dropbox uses it to sync files to your computer, and Cloudflare uses it to process more than 20% of all internet traffic.\nWhen the coder discussion board Stack Overflow conducts its annual poll of developers around the world, Rust has been rated the most “loved” programming language for seven years running. Even the US government is avidly promoting software in Rust as a way to make its processes more secure. The language has become, like many successful open-source projects, a barn-raising: there are now hundreds of die-hard contributors, many of them volunteers. Hoare himself stepped aside from the project in 2013, happy to turn it over to those other engineers, including a core team at Mozilla.\nIt isn’t unusual for someone to make a new computer language. Plenty of coders create little ones as side projects all the time. But it’s meteor-strike rare for one to take hold and become part of the pantheon of well-known languages alongside, say, JavaScript or Python or Java. How did Rust do it?\nTo grasp what makes Rust so useful, it’s worth taking a peek beneath the hood at how programming languages deal with computer memory.\nYou could, very crudely, think of the dynamic memory in a computer as a chalkboard. As a piece of software runs, it’s constantly writing little bits of data to the chalkboard, keeping track of which one is where, and erasing them when they’re no longer needed. Different computer languages manage this in different ways, though. An older language like C or C++ is designed to give the programmer a lot of power over how and when the software uses the chalkboard. That power is useful: with so much control over dynamic memory, a coder can make the software run very quickly. That’s why C and C++ are often used to write “bare metal” code, the sort that interacts directly with hardware. Machines that don’t have an operating system like Windows or Linux, including everything from dialysis machines to cash registers, run on such code. (It’s also used for more advanced computing: at some point an operating system needs to communicate with hardware. The kernels of Windows, Linux, and MacOS are all significantly written in C.)\n“It’s enjoyable to write Rust, which is maybe kind of weird to say, but it’s just the language is fantastic. It’s fun. You feel like a magician, and that never happens in other languages.”\nParker Timmerman, software engineer \nBut as speedy as they are, languages like C and C++ come with a trade-off. They require the coder to keep careful track of what memory is being written to, and when to erase it. And if you accidentally forget to erase something? You can cause a crash: the software later on might try to use a space in memory it thinks is empty when there’s really something there. Or you could give a digital intruder a way to sneak in. A hacker might discover that a program isn’t cleaning up its memory correctly—information that should have been wiped (passwords, financial info) is still hanging around—and sneakily grab that data. As a piece of C or C++ code gets bigger and bigger, it’s possible for even the most careful coder to make lots of memory mistakes, filling the software with bugs.\n“In C or C++ you always have this fear that your code will just randomly explode,” says Mara Bos, cofounder of the drone firm Fusion Engineering and head of Rust’s library team."
+  },
+  {
+    "objectID": "posts/Mullaperiyar/index.html",
+    "href": "posts/Mullaperiyar/index.html",
+    "title": "Mullaperiyar Dam",
+    "section": "",
+    "text": "The Mullaperiyar dam has been the bone of contention between Tamil Nadu and Kerala for a long time. Read here to know about the history of the 126 years old dam.\nThe Supreme Court’s direction recently to the supervisory committee for the Mullaperiyar dam on the issue of the maximum water level has revived the controversy surrounding the dam.\nThe order was issued while hearing a petition raising apprehensions about the supervision of water levels of the reservoir, especially during the rainy season and as Kerala has also been experiencing unusually heavy spells of rain.\nDuring October 18-25 2021, the dam too received a substantial inflow. Despite the Court’s nod in 2014 to store water up to 142 ft, Tamil Nadu has been careful in drawing as much water as possible so that the level does not reach the permissible level ordinarily."
+  }
+]

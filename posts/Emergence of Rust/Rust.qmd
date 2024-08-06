@@ -1,0 +1,30 @@
+---
+title: "Rust: something that can't be avoided"
+author: "Jerit"
+date: "2024-08-03"
+categories: [Tools]
+image: "th-2619909044.jpeg"
+---
+![](th-2619909044.jpeg)
+In 2006, Graydon Hoare was a 29-year-old computer programmer working for Mozilla, the open-source browser company. Returning home to his apartment in Vancouver, he found that the elevator was out of order; its software had crashed. This wasn’t the first time it had happened, either. 
+
+Hoare lived on the 21st floor, and as he climbed the stairs, he got annoyed. “It’s ridiculous,” he thought, “that we computer people couldn’t even make an elevator that works without crashing!” Many such crashes, Hoare knew, are due to problems with how a program uses memory. The software inside devices like elevators is often written in languages like C++ or C, which are famous for allowing programmers to write code that runs very quickly and is quite compact. The problem is those languages also make it easy to accidentally introduce memory bugs—errors that will cause a crash. Microsoft estimates that 70% of the vulnerabilities in its code are due to memory errors from code written in these languages.
+
+Most of us, if we found ourselves trudging up 21 flights of stairs, would just get pissed off and leave it there. But Hoare decided to do something about it. He opened his laptop and began designing a new computer language, one that he hoped would make it possible to write small, fast code without memory bugs. He named it Rust, after a group of remarkably hardy fungi that are, he says, “over-engineered for survival.”
+
+Seventeen years later, Rust has become one of the hottest new languages on the planet—maybe the hottest. There are 2.8 million coders writing in Rust, and companies from Microsoft to Amazon regard it as key to their future. The chat platform Discord used Rust to speed up its system, Dropbox uses it to sync files to your computer, and Cloudflare uses it to process more than 20% of all internet traffic. 
+
+When the coder discussion board Stack Overflow conducts its annual poll of developers around the world, Rust has been rated the most “loved” programming language for seven years running. Even the US government is avidly promoting software in Rust as a way to make its processes more secure. The language has become, like many successful open-source projects, a barn-raising: there are now hundreds of die-hard contributors, many of them volunteers. Hoare himself stepped aside from the project in 2013, happy to turn it over to those other engineers, including a core team at Mozilla.
+
+It isn’t unusual for someone to make a new computer language. Plenty of coders create little ones as side projects all the time. But it’s meteor-strike rare for one to take hold and become part of the pantheon of well-known languages alongside, say, JavaScript or Python or Java. How did Rust do it?
+
+To grasp what makes Rust so useful, it’s worth taking a peek beneath the hood at how programming languages deal with computer memory.
+
+You could, very crudely, think of the dynamic memory in a computer as a chalkboard. As a piece of software runs, it’s constantly writing little bits of data to the chalkboard, keeping track of which one is where, and erasing them when they’re no longer needed. Different computer languages manage this in different ways, though. An older language like C or C++ is designed to give the programmer a lot of power over how and when the software uses the chalkboard. That power is useful: with so much control over dynamic memory, a coder can make the software run very quickly. That’s why C and C++ are often used to write “bare metal” code, the sort that interacts directly with hardware. Machines that don’t have an operating system like Windows or Linux, including everything from dialysis machines to cash registers, run on such code. (It’s also used for more advanced computing: at some point an operating system needs to communicate with hardware. The kernels of Windows, Linux, and MacOS are all significantly written in C.)
+
+    “It’s enjoyable to write Rust, which is maybe kind of weird to say, but it’s just the language is fantastic. It’s fun. You feel like a magician, and that never happens in other languages.”
+    Parker Timmerman, software engineer 
+
+But as speedy as they are, languages like C and C++ come with a trade-off. They require the coder to keep careful track of what memory is being written to, and when to erase it. And if you accidentally forget to erase something? You can cause a crash: the software later on might try to use a space in memory it thinks is empty when there’s really something there. Or you could give a digital intruder a way to sneak in. A hacker might discover that a program isn’t cleaning up its memory correctly—information that should have been wiped (passwords, financial info) is still hanging around—and sneakily grab that data. As a piece of C or C++ code gets bigger and bigger, it’s possible for even the most careful coder to make lots of memory mistakes, filling the software with bugs.
+
+“In C or C++ you always have this fear that your code will just randomly explode,” says Mara Bos, cofounder of the drone firm Fusion Engineering and head of Rust’s library team.

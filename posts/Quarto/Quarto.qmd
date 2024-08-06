@@ -1,11 +1,11 @@
 ---
 title: "Quarto something to lookout for"
-author: "Cain"
+author:  "Jerit"
 date: "2024-08-03"
 categories: [Tools]
-image: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2F736x%2F1d%2F5e%2F30%2F1d5e30cd48d90b857a62f723f16e6aa4.jpg&f=1&nofb=1&ipt=da9d9ec253f665995fb8fffbd69eccd7b300e1072fa83cf0fed47fd613555ca0&ipo=images"
+image: "1d5e30cd48d90b857a62f723f16e6aa4-326098153.jpg"
 ---
-![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2F736x%2F1d%2F5e%2F30%2F1d5e30cd48d90b857a62f723f16e6aa4.jpg&f=1&nofb=1&ipt=da9d9ec253f665995fb8fffbd69eccd7b300e1072fa83cf0fed47fd613555ca0&ipo=images)
+![](1d5e30cd48d90b857a62f723f16e6aa4-326098153.jpg)
 
 Quarto is an open-source software that's been making waves in the data science community. It enables users to create dynamic, interactive documents and reports, working seamlessly with popular programming languages like Python, R, and Julia. With Quarto, data scientists and analysts can create interactive visualizations, update reports and dashboards with fresh data, and collaborate with others in real-time. Whether you're looking to streamline your workflow, enhance productivity, or improve collaboration, Quarto has got you covered.
 

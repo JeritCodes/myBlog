@@ -1,6 +1,6 @@
 project:
   type: website
-
+  output-dir: docs
 website:
   title: "myBlog"
   navbar:
@@ -12,7 +12,7 @@ website:
         href: https://twitter.com
 format:
   html:
-    theme: lumen
+    theme: sandstone
     css: styles.css
 
 
